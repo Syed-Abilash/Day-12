@@ -1,0 +1,94 @@
+
+.header{
+    height: 50px;
+    width: 90%;
+    background-color: rgba(3, 46, 63, 0.949);
+}
+.image{
+    position: absolute;
+    top: 25px;
+    left: 50px;
+}
+.content{
+   display: flex;
+   justify-content: center;
+   color: aliceblue;
+}
+.square{
+    height: 500px;
+    width: 88.9%;
+    position: absolute;
+    background-color: #CAD2C5;
+
+}
+@media (max-width: 700px) {
+
+    
+}
+.retangle{
+    height: 85%;
+    width: 20%;
+    background-color: #353535;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    border-radius: 15px;
+    
+}
+.search{
+    height: 40px;
+    width:40% ;
+    background-color: #353535;
+    position: absolute;
+    top: 30px;
+    right: 20%;
+    border-radius: 10px;
+}
+.content1{
+    position: absolute;
+    top: -8px;
+    left: 20px;
+    color: #858585;
+}
+.square1{
+    height: 80px;
+    width: 120px;
+    background-color: #353535;
+    position: absolute;
+    top: 140px;
+    right: 35%;
+    border-radius: 8px;
+}
+.square2{
+    height: 80px;
+    width: 120px;
+    background-color: #353535;
+    position: absolute;
+    top: 140px;
+    right: 15% ;
+    border-radius: 8px;
+}
+.square3{
+    height: 80px;
+    width: 120px;
+    background-color: #353535;
+    position: absolute;
+    top: 140px;
+    right: 55% ;
+    border-radius: 8px;
+}
+.retangle1{
+    height: 30%;
+    width: 50%;
+    background-color: #353535;
+    position: absolute;
+    bottom: 50px;
+    left: 35%;
+    border-radius: 8px;
+} 
+@media (max-width: 700px) {
+    .middle-content{
+        
+    }
+    
+}
